@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hershalr
+- 👋 Hi, I’m Hershal.
 - 👀 I’m interested in data engineering and cloud computing
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on interesting quantitative based projects in any industry
