@@ -2,8 +2,8 @@
 - 👀 I’m interested in data engineering and cloud computing
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on interesting quantitative based projects in any industry
-- 📫 How to reach me ... you can contact me via email using hershalrooplall@icloud.com
-- 😄 Pronouns: he/him
+- 📫 You can contact me via email using hershalrooplall@icloud.com
+- 😄 Pronouns: He/Him
 - ⚡ My GitHub primarily reflects my scripting learning and development
 
 <!---
